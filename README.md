@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="ru">
 <head>
 <meta charset="UTF-8">
@@ -20,7 +19,7 @@ section {
 }
 
 .hero {
-    background: url('https://vk.com/away.php?to=https%3A%2F%2Fsun9-39.userapi.com%2Fs%2Fv1%2Fig2%2F7Z1uaBwNBCQ7WtjMt9vriTJbjQFEOIP-SDWu7s7qftnWk1NhlfTPS-FszPgoGgMYSIsvSKHeUbP2CEVkujuEtXB6.jpg%3Fquality%3D95%26as%3D32x48%2C48x72%2C72x108%2C108x162%2C160x240%2C240x360%2C360x540%2C480x720%2C540x810%2C640x960%2C720x1080%2C1080x1620%2C1280x1920%2C1440x2160%2C1600x2400%26from%3Dbu%26u%3Dh3LnsgLuCPFP2nIkT4zHF8EPsv19ikBM39-inDOoa4Y%26cs%3D640x0&utf=1') center/cover no-repeat;
+    background: url('[https://vk.com/away.php?to=https%3A%2F%2Fsun9-39.userapi.com%2Fs%2Fv1%2Fig2%2F7Z1uaBwNBCQ7WtjMt9vriTJbjQFEOIP-SDWu7s7qftnWk1NhlfTPS-FszPgoGgMYSIsvSKHeUbP2CEVkujuEtXB6.jpg%3Fquality%3D95%26as%3D32x48%2C48x72%2C72x108%2C108x162%2C160x240%2C240x360%2C360x540%2C480x720%2C540x810%2C640x960%2C720x1080%2C1080x1620%2C1280x1920%2C1440x2160%2C1600x2400%26from%3Dbu%26u%3Dh3LnsgLuCPFP2nIkT4zHF8EPsv19ikBM39-inDOoa4Y%26cs%3D640x0&utf=1](https://sun9-68.userapi.com/s/v1/ig2/wEogYpKlslgcRDgsfv7VmT5DDIRZyuivPaZqffP5iwUKf3K1s9grfftvPKqGem3tbQ83Hi-Z8mVWvhfPkQIznFym.jpg?quality=96&as=32x48,48x72,72x108,108x162,160x240,240x360,360x540,480x720,540x810,640x960&from=bu&u=7iUAylOqXsVOtAhY8QgzrdaD4CDdMzLkwPlWv3x0aFs&cs=640x0)') center/cover no-repeat;
     color: white;
     height: 100vh;
     display:flex;
@@ -75,7 +74,7 @@ section {
 }
 
 .dresscode {
-    background: url('https://vk.com/away.php?to=https%3A%2F%2Fsun9-70.userapi.com%2Fs%2Fv1%2Fig2%2FscrxbajPvoexCaFWXSx0KHECQM8XEAwx_kiOXZ9cYKBhVZVJKNMH64mO566B5p7-T_zYOhuKgugOdaXt_zGxSblc.jpg%3Fquality%3D95%26as%3D32x48%2C48x72%2C72x108%2C108x162%2C160x240%2C240x360%2C360x540%2C480x720%2C540x810%2C640x960%2C720x1080%2C1080x1620%2C1280x1920%2C1440x2160%2C1600x2400%26from%3Dbu%26u%3DRVLVMs1F_qFgEE4R8OtfxN-QrhsGZAlULiR8qOGeBrQ%26cs%3D1600x0&utf=1') center/cover no-repeat;
+    background: url('[https://vk.com/away.php?to=https%3A%2F%2Fsun9-70.userapi.com%2Fs%2Fv1%2Fig2%2FscrxbajPvoexCaFWXSx0KHECQM8XEAwx_kiOXZ9cYKBhVZVJKNMH64mO566B5p7-T_zYOhuKgugOdaXt_zGxSblc.jpg%3Fquality%3D95%26as%3D32x48%2C48x72%2C72x108%2C108x162%2C160x240%2C240x360%2C360x540%2C480x720%2C540x810%2C640x960%2C720x1080%2C1080x1620%2C1280x1920%2C1440x2160%2C1600x2400%26from%3Dbu%26u%3DRVLVMs1F_qFgEE4R8OtfxN-QrhsGZAlULiR8qOGeBrQ%26cs%3D1600x0&utf=1](https://sun9-54.userapi.com/s/v1/ig2/6lIHmikAbDK5995EQF64n9UsMnMpDixDUmAA2KU7B9Eq5V621HB7-5IZRZG_2qTLtRrVHSgxpqkWQHh9q76eMB7B.jpg?quality=96&as=32x48,48x72,72x108,108x162,160x240,240x360,360x540,480x720,540x810,640x960,720x1080,1080x1620,1280x1920,1440x2160&from=bu&u=wSA1JAqcq8FoaBGaszV4Uf8fOBXHtSLKEoPpjVmjT1s&cs=1440x0)') center/cover no-repeat;
     color: white;
 }
 
@@ -136,7 +135,7 @@ section {
 
 <section class="gray date">
     <h2>20 августа 2026</h2>
-    <img src="https://vk.com/away.php?to=https%3A%2F%2Fsun9-27.userapi.com%2Fs%2Fv1%2Fig2%2Fx3wiCfa3eyTkbCHtko5cipJea4tKG12huEyA6BVKuEB4X7tG2WRUyoEArByVRMsPYWDNnsgaMdqHeyCy1IyyH8ph.jpg%3Fquality%3D95%26as%3D32x26%2C48x38%2C72x58%2C108x86%2C160x128%2C240x192%2C360x288%2C480x384%2C540x432%2C640x512%2C720x576%2C1080x864%2C1280x1024%2C1402x1122%26from%3Dbu%26u%3DaA7wTVtt5T4WcZkIL6UBi-drtCaOUXZvVn8XWv54PqU%26cs%3D1402x0&utf=1">
+    <img src="[https://vk.com/away.php?to=https%3A%2F%2Fsun9-27.userapi.com%2Fs%2Fv1%2Fig2%2Fx3wiCfa3eyTkbCHtko5cipJea4tKG12huEyA6BVKuEB4X7tG2WRUyoEArByVRMsPYWDNnsgaMdqHeyCy1IyyH8ph.jpg%3Fquality%3D95%26as%3D32x26%2C48x38%2C72x58%2C108x86%2C160x128%2C240x192%2C360x288%2C480x384%2C540x432%2C640x512%2C720x576%2C1080x864%2C1280x1024%2C1402x1122%26from%3Dbu%26u%3DaA7wTVtt5T4WcZkIL6UBi-drtCaOUXZvVn8XWv54PqU%26cs%3D1402x0&utf=1](https://sun9-53.userapi.com/s/v1/ig2/KBnHuqeNib30xqem2wggemyKQkni-YPd-1qnUV10LeFI-AfjJ7LB02E24KJT22cZE__3RuTBxSzTvcs5rQME1Bdr.jpg?quality=96&as=32x26,48x38,72x58,108x86,160x128,240x192,360x288,480x384,540x432,640x512,720x576,1080x864,1280x1024,1402x1122&from=bu&u=xtO_XoaZpFrAC51VwoiZ_6LlVVG1pqnpMfnDCjy4Gmc&cs=1402x0)">
     <div class="timer" id="timer"></div>
 </section>
 
